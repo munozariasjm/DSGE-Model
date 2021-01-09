@@ -1,0 +1,228 @@
+Starting Dynare (version 4.5.7).
+Starting preprocessing of the model file ...
+WARNING: e8 not used in model block, removed by nostrict command-line option
+Found 82 equation(s).
+Evaluating expressions...done
+Computing static model derivatives:
+ - order 1
+Computing dynamic model derivatives:
+ - order 1
+Processing outputs ...
+done
+Preprocessing completed.
+
+
+
+
+Residuals of the static equations:
+
+Equation number 1 : 0
+Equation number 2 : 0
+Equation number 3 : 0
+Equation number 4 : 0
+Equation number 5 : -5.8571e-07
+Equation number 6 : 0
+Equation number 7 : -5.7878e-07
+Equation number 8 : 0
+Equation number 9 : 0
+Equation number 10 : 0
+Equation number 11 : -2.5314e-07
+Equation number 12 : -1.6593e-06
+Equation number 13 : -6.297
+Equation number 14 : 0
+Equation number 15 : 0
+Equation number 16 : 0
+Equation number 17 : 0
+Equation number 18 : 0
+Equation number 19 : 0
+Equation number 20 : 0.00030517
+Equation number 21 : 0.00015259
+Equation number 22 : -0.0055797
+Equation number 23 : 0
+Equation number 24 : -2.5243e-07
+Equation number 25 : 0
+Equation number 26 : 0
+Equation number 27 : 0
+Equation number 28 : 5.3176e-07
+Equation number 29 : -3.6061e-07
+Equation number 30 : 0
+Equation number 31 : 0
+Equation number 32 : 0
+Equation number 33 : 0
+Equation number 34 : 0
+Equation number 35 : -5.9154e-07
+Equation number 36 : 0
+Equation number 37 : 0
+Equation number 38 : 0
+Equation number 39 : 0
+Equation number 40 : 0
+Equation number 41 : 0
+Equation number 42 : 0
+Equation number 43 : 0
+Equation number 44 : 0
+Equation number 45 : 0
+Equation number 46 : 0
+Equation number 47 : 0
+Equation number 48 : 0
+Equation number 49 : -5.0141e-07
+Equation number 50 : 0
+Equation number 51 : 0
+Equation number 52 : 5.6077e-07
+Equation number 53 : 0
+Equation number 54 : 0
+Equation number 55 : -1.1142e-07
+Equation number 56 : 1.6801e-05
+Equation number 57 : 0
+Equation number 58 : 0
+Equation number 59 : 0
+Equation number 60 : 0
+Equation number 61 : 0
+Equation number 62 : 0
+Equation number 63 : 0
+Equation number 64 : 0
+Equation number 65 : 0
+Equation number 66 : 0
+Equation number 67 : 0
+Equation number 68 : 0
+Equation number 69 : 0
+Equation number 70 : 0
+Equation number 71 : 0
+Equation number 72 : 0
+Equation number 73 : 0
+Equation number 74 : 0
+Equation number 75 : 0
+Equation number 76 : 0
+Equation number 77 : 0
+Equation number 78 : 0
+Equation number 79 : 0
+Equation number 80 : -0.005292
+Equation number 81 : 0
+Equation number 82 : 0
+
+
+
+STEADY-STATE RESULTS:
+
+c      		 2.4613
+n      		 -0.753888
+w      		 2.96812
+ir     		 0.0635072
+bf     		 1.89486
+er     		 4.31645e-05
+q      		 -2.69418
+i      		 0.495181
+ifdi   		 -1.39779
+k      		 3.18936
+kfdi   		 1.29643
+kv     		 2.16781
+r      		 -1.85042
+rfdi   		 -2.4155
+fi     		 0.167302
+df     		 1.83971
+py     		 -0.000158626
+y      		 2.66616
+g      		 1.37835
+d      		 2.45202
+m      		 1.39283
+s      		 1.92379
+x      		 0.637466
+pm     		 4.31647e-05
+pd     		 -1.49684e-05
+px     		 -0.000629016
+xx     		 4.32433
+xt     		 4.34907
+pwx    		 -0.000672181
+pib    		 2.84693
+ri     		 -3.08748
+tauh   		 -1.97177
+tauk   		 -2.01011
+f      		 -0.273962
+fk     		 -0.21428
+z      		 3.28081
+iva    		 -2.08785
+aran   		 -3.56563
+dm     		 0.792168
+pi     		 0.0295998
+vr     		 0.0360933
+ppet   		 0
+qpet   		 -0.220769
+lamda  		 -0.0514519
+ga     		 -0.329729
+po     		 -0.000158626
+v1     		 3.27506
+v2     		 3.32651
+iri    		 0.0965813
+gb     		 -0.993837
+rb     		 -0.501141
+irb    		 0.0554903
+tc     		 1.92162
+cb     		 -1.71271
+ira    		 0.0632964
+walras 		 -1.18277e-06
+scc    		 -0.117506
+sck    		 0.1196
+pw     		 0
+iv     		 -0.126481
+rv     		 -3.03959
+pv     		 -0.00104043
+yv     		 -0.126481
+yt     		 2.60295
+pt     		 -0.000101012
+taukv  		 0
+kapa   		 0
+ltv    		 -0.356675
+irh    		 0.11265
+ch     		 -0.0158172
+tauv   		 0
+rrb    		 -2.56608
+psiv   		 6.00366
+psim   		 -2.60679
+psin   		 -0.174442
+u      		 5.44566
+pomeg  		 -12.3016
+omeg   		 -0.0435824
+rs     		 -2.16282
+sdomeg 		 -12.2521
+chi    		 -6.36253
+ct     		 1.98499
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print_info', '/usr/lib/dynare/matlab/print_info.m', 90)" style="font-weight:bold">print_info</a> (<a href="matlab: opentoline('/usr/lib/dynare/matlab/print_info.m',90,0)">line 90</a>)
+The steady state contains NaN or Inf
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('check', '/usr/lib/dynare/matlab/check.m', 76)" style="font-weight:bold">check</a> (<a href="matlab: opentoline('/usr/lib/dynare/matlab/check.m',76,0)">line 76</a>)
+    print_info(info, 0, options);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('modelovivienda13A', '/home/jose/Study/Universidad/Cuarto Semestre/DSGE economy/modelovivienda13A.m', 1361)" style="font-weight:bold">modelovivienda13A</a> (<a href="matlab: opentoline('/home/jose/Study/Universidad/Cuarto Semestre/DSGE economy/modelovivienda13A.m',1361,0)">line 1361</a>)
+oo_.dr.eigval = check(M_,options_,oo_);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('dynare', '/usr/lib/dynare/matlab/dynare.m', 243)" style="font-weight:bold">dynare</a> (<a href="matlab: opentoline('/usr/lib/dynare/matlab/dynare.m',243,0)">line 243</a>)
+evalin('base',fname) ;
+} 
+
+dynare Modelo nostrict
+
+Configuring Dynare ...
+[m]   Generalized QZ.
+[m]   Sylvester equation solution.
+[m]   Kronecker products.
+[m]   Sparse kronecker products.
+[m]   Local state space iteration (second order).
+[no]  Bytecode evaluation.
+[no]  k-order perturbation solver.
+[no]  k-order solution simulation.
+[no]  Quasi Monte-Carlo sequence (Sobol).
+[no]  Markov Switching SBVAR.
+
+Using 64-bit preprocessor
+Starting Dynare (version 4.5.7).
+Starting preprocessing of the model file ...
+WARNING: e8 not used in model block, removed by nostrict command-line option
+Found 82 equation(s).
+Evaluating expressions...done
+Computing static model derivatives:
+ - order 1
+Computing dynamic model derivatives:
+ - order 1
+Processing outputs ...
+done
+Preprocessing completed.
+

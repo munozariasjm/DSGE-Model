@@ -1,0 +1,205 @@
+Starting Dynare (version 4.5.7).
+Starting preprocessing of the model file ...
+WARNING: e8 not used in model block, removed by nostrict command-line option
+Found 82 equation(s).
+Evaluating expressions...done
+Computing static model derivatives:
+ - order 1
+Computing dynamic model derivatives:
+ - order 1
+Processing outputs ...
+done
+Preprocessing completed.
+
+
+
+
+Residuals of the static equations:
+
+Equation number 1 : 0
+Equation number 2 : -0.0062442
+Equation number 3 : 0
+Equation number 4 : -0.22356
+Equation number 5 : -5.8571e-07
+Equation number 6 : 0
+Equation number 7 : -5.7878e-07
+Equation number 8 : 0
+Equation number 9 : 0
+Equation number 10 : 0
+Equation number 11 : -2.5314e-07
+Equation number 12 : -1.6593e-06
+Equation number 13 : -6.297
+Equation number 14 : 0
+Equation number 15 : 0
+Equation number 16 : 0
+Equation number 17 : 0
+Equation number 18 : 0
+Equation number 19 : 0
+Equation number 20 : 0.00030517
+Equation number 21 : 0.00015259
+Equation number 22 : -0.0055797
+Equation number 23 : 0
+Equation number 24 : -2.5243e-07
+Equation number 25 : 0
+Equation number 26 : 0
+Equation number 27 : 0
+Equation number 28 : 5.3176e-07
+Equation number 29 : -3.6061e-07
+Equation number 30 : 0
+Equation number 31 : -0.079591
+Equation number 32 : -0.08378
+Equation number 33 : 0
+Equation number 34 : 0
+Equation number 35 : -5.9154e-07
+Equation number 36 : 0
+Equation number 37 : 0
+Equation number 38 : 0
+Equation number 39 : 0
+Equation number 40 : 0
+Equation number 41 : 0
+Equation number 42 : 0
+Equation number 43 : 0
+Equation number 44 : 0
+Equation number 45 : 0
+Equation number 46 : 0
+Equation number 47 : 0
+Equation number 48 : 0
+Equation number 49 : -5.0141e-07
+Equation number 50 : 0
+Equation number 51 : 0
+Equation number 52 : 5.6077e-07
+Equation number 53 : 0
+Equation number 54 : 0
+Equation number 55 : -1.1142e-07
+Equation number 56 : -1.4136
+Equation number 57 : 0
+Equation number 58 : 0
+Equation number 59 : 0
+Equation number 60 : 0
+Equation number 61 : 0
+Equation number 62 : 0
+Equation number 63 : 0
+Equation number 64 : 0
+Equation number 65 : 0
+Equation number 66 : 0
+Equation number 67 : 0
+Equation number 68 : 0
+Equation number 69 : 0
+Equation number 70 : 0
+Equation number 71 : 0
+Equation number 72 : 0
+Equation number 73 : 0
+Equation number 74 : 0
+Equation number 75 : 0
+Equation number 76 : -0.00011138
+Equation number 77 : 0
+Equation number 78 : 0
+Equation number 79 : 0
+Equation number 80 : -0.005292
+Equation number 81 : 0
+Equation number 82 : 0
+
+
+
+STEADY-STATE RESULTS:
+
+c      		 2.47502
+n      		 -0.74892
+w      		 2.98969
+ir     		 0.0561753
+bf     		 1.84271
+er     		 0.00196383
+q      		 -2.69418
+i      		 0.580718
+ifdi   		 -1.39779
+k      		 3.2749
+kfdi   		 1.29836
+kv     		 2.19525
+r      		 -1.90943
+rfdi   		 -2.39089
+fi     		 0.160683
+df     		 1.79561
+py     		 -0.00144401
+y      		 2.69398
+g      		 1.42545
+d      		 2.48108
+m      		 1.41801
+s      		 1.67283
+x      		 0.657801
+pm     		 0.00196383
+pd     		 -0.000680544
+px     		 -0.0056575
+xx     		 4.32382
+xt     		 4.34907
+pwx    		 -0.00762133
+pib    		 2.8734
+ri     		 -3.22483
+tauh   		 -1.97177
+tauk   		 -2.01011
+f      		 -0.273962
+fk     		 -0.21428
+z      		 3.28081
+iva    		 -2.08785
+aran   		 -3.56563
+dm     		 0.855601
+pi     		 0.0284927
+vr     		 0.0360933
+ppet   		 0
+qpet   		 -0.220769
+lamda  		 -0.0527373
+ga     		 -0.303193
+po     		 -0.00144401
+v1     		 3.30746
+v2     		 3.36019
+iri    		 0.0888553
+gb     		 -1.04705
+rb     		 -0.538655
+irb    		 0.0554903
+tc     		 1.8676
+cb     		 -1.83817
+ira    		 0.0561585
+walras 		 -2.34702e-08
+scc    		 -0.118867
+sck    		 0.12091
+pw     		 0
+iv     		 -0.0990398
+rv     		 -3.0405
+pv     		 -0.00251559
+yv     		 -0.0990398
+yt     		 2.63079
+pt     		 -0.00137403
+taukv  		 0
+kapa   		 0
+ltv    		 -0.356675
+irh    		 0.105321
+ch     		 -0.0122622
+tauv   		 0
+rrb    		 -2.56608
+psiv   		 6.00366
+psim   		 -2.60679
+psin   		 -0.171783
+u      		 5.76911
+pomeg  		 -12.3016
+omeg   		 -0.0493276
+rs     		 -2.16282
+sdomeg 		 -12.2521
+chi    		 -6.36253
+ct     		 1.94748
+{Error using print_info (line 90)
+The steady state contains NaN or Inf
+
+Error in check (line 76)
+    print_info(info, 0, options);
+
+Error in Modelo (line 1361)
+oo_.dr.eigval = check(M_,options_,oo_);
+
+Error in dynare (line 243)
+evalin('base',fname) ;
+
+Error in script (line 3)
+dynare Modelo nostrict
+
+Error in run (line 91)
+evalin('caller', strcat(script, ';'));
+} 
